@@ -1,0 +1,27 @@
+/* Psmailer Signup Form */
+#psmailer {width:100%; clear:both; margin:0; padding:0; border:0;}
+#psmailer p {margin:0 0 10px;}
+
+
+/* Label and Input fields */
+#psmailer label {font-size:1em; text-transform:none; font-weight:normal;}
+#psmailer input {font-size:1em; -webkit-appearance:none; -moz-appearance:none;}
+#psmailer_name, #psmailer_email, #psmailer_phone, #psmailer_captcha, #psmailer_firstname, #psmailer_lastname {width:90%;}
+
+
+/* Hide the 2 fake Honeypot fields */
+#psmailer_firstname, #psmailer_lastname {visibility:hidden; display:none;}
+
+
+/* Input fields error */
+#psmailer input.error {border-color:#e77776; color:#e77776;}
+
+
+/* Error and Thank You message */
+#psmailer span.error {color:#e77776;}
+#psmailer span.hide {display:none;}
+.psmailer_info {margin:0 0 10px; font-style:italic; font-size:1.25em;}
+
+
+/* Widget */
+.psmailer_sidebar {}

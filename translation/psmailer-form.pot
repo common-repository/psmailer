@@ -1,0 +1,107 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Very Simple Signup Form\n"
+"POT-Creation-Date: 2016-02-17 11:20+0100\n"
+"PO-Revision-Date: 2015-08-14 12:09+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: psmailer_settings.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: psmailer_main.php:11
+msgid "Nombre"
+msgstr ""
+
+#: psmailer_main.php:12
+msgid "Email"
+msgstr ""
+
+#: psmailer_main.php:13
+msgid "Telefono"
+msgstr ""
+
+#: psmailer_main.php:14
+#, php-format
+msgid "Captcha: Introduzca el número %s"
+msgstr ""
+
+#: psmailer_main.php:15
+msgid "Enviar"
+msgstr ""
+
+#: psmailer_main.php:16 psmailer_main.php:17
+msgid "Por favor, introduzca al menos 2 caracteres"
+msgstr ""
+
+#: psmailer_main.php:18
+msgid "Por favor, introduzca un número válido"
+msgstr ""
+
+#: psmailer_main.php:19
+msgid "Por favor, introduzca un email válido"
+msgstr ""
+
+#: psmailer_main.php:20
+msgid "Por favor, rellene los campos requeridos"
+msgstr ""
+
+#: psmailer_main.php:21
+msgid ""
+"Gracias por registrarse en nuestra newsletter, en breve comenzará a recibirlas"
+msgstr ""
+
+#: psmailer_main.php:102
+#, php-format
+msgid "Nueva alta: %s"
+msgstr ""
+
+#: psmailer_main.php:103
+#, php-format
+msgid "IP: %s"
+msgstr ""
+
+#: psmailer_widget.php:7
+msgid "Psmailer, widget newsletter"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#: psmailer_widget.php:8 psmailer_widget.php:19
+msgid "Psmailer newsletter form"
+msgstr ""
+
+#: psmailer_widget.php:24
+msgid "Titulo del widget"
+msgstr ""
+
+#: psmailer_widget.php:28
+msgid "Info debajo del formulario"
+msgstr ""
+
+#: psmailer_widget.php:32
+msgid "Atributos"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Este es un formulario de registro en la newsletter. Utilice el widget para añadir el formulario "
+"en la barra lateral"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Psmailer"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.psmailer.com"
+msgstr ""
